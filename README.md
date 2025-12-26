@@ -4,4 +4,4 @@ This project contains the code and corresponding data for manuscript No. CAIE-D-
 	1.	the Gurobi-based implementation under Scenario S1; and
 	2.	the TS-GU implementation under Scenarios S1, S1e, S2a, S2b, S3, and S4.
 
-After running these codes on a local computer, the results reported in Section 5.2.3 can be reproduced. It is recommended to use Python 3.9, and the xlrd library version must be 1.2.
+After running these codes on a local computer, the results reported in Section 5.2.3 can be reproduced. It is recommended to use Python 3.9, and the xlrd library version must be 1.2; a valid Gurobi installation and license are also required.
